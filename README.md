@@ -11,13 +11,6 @@
 
 <h2 align="left">About me</h2>
 
-
-
-
-
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -64,11 +57,8 @@
 
 
 
-###
-
 <h2 align="left">
 I code with</h2>
-
 
 <p align="left">
 ✨ Creating bugs since 2019
@@ -78,19 +68,11 @@ I code with</h2>
 🎯 Goals: To program amazing and professional applications and work at Google
 <br>
 
-###
-
-
-
 
 <!-- <img src="https://raw.githubusercontent.com/Mostafa7Ahmad/Mostafa7Ahmad/output/snake.svg" alt="Snake animation" /> -->
 
-###
 
 <h2> Github Stats </h2>
-
-
-
 
 
 
@@ -106,5 +88,3 @@ I code with</h2>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
-
-###
