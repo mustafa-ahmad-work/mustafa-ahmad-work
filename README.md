@@ -1,90 +1,210 @@
-<h1 align="center">
-  Hi, I'm Mostafa Ahmad!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-</h1>
+<div align="center">
 
-<br/>
+# Mostafa Ahmad
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full+stack+developer;Always+learning+new+things;Freelancer;" alt="Typing SVG" />
-</a>
+### Backend-Focused Full Stack Developer
 
-<h2 align="left">About me</h2>
+Building clean, scalable web applications with **PHP, Laravel, React, and MySQL**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<p>
+  <a href="https://github.com/Mostafa7Ahmad">
+    <img src="https://img.shields.io/github/followers/Mostafa7Ahmad?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/Mostafa7Ahmad?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Mostafa7Ahmad?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Mostafa7Ahmad">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F7F7F7&center=true&vCenter=true&width=650&lines=Laravel+%7C+PHP+%7C+React+Developer;Backend+Engineering+%7C+Clean+Architecture;SOLID+%7C+Design+Patterns+%7C+Database+Design;Learning+to+build+production-ready+systems" alt="Typing SVG">
+  </a>
+</p>
+
 </div>
 
+---
 
+## About Me
 
-<h2 align="left">
-I code with</h2>
+I'm **Mostafa Ahmad**, a web developer focused on building real-world applications with a strong interest in **backend engineering, software architecture, and clean code**.
 
-<p align="left">
-✨ Creating bugs since 2019
+My main stack is centered around:
+
+- **PHP & Laravel** for backend development
+- **React** for modern frontend applications
+- **MySQL** for relational database design and querying
+- **Filament & Livewire** for building powerful Laravel applications
+- **Git & GitHub** for version control and project workflow
+
+I'm currently going deeper into **OOP, SOLID, Design Patterns, Database Design, Clean Architecture, and scalable Laravel application architecture**.
+
+My goal is not only to make applications work, but to understand **why they are designed the way they are** and how to build systems that remain maintainable as they grow.
+
+---
+
+## What I Build
+
+```text
+Laravel Applications
+├── REST APIs
+├── Authentication & Authorization
+├── Admin Panels
+├── Business Logic
+├── Database-Driven Systems
+└── Integrations & Services
+
+Software Engineering
+├── OOP
+├── SOLID Principles
+├── Design Patterns
+├── Clean Code
+├── Architecture
+└── Database Design
+
+Frontend
+├── React
+├── JavaScript
+├── HTML
+└── CSS
+```
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL">
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3">
+</p>
+
+### Laravel Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FB?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Filament-EB?style=for-the-badge&logo=filament&logoColor=white" alt="Filament">
+  <img src="https://img.shields.io/badge/Livewire-4E?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm">
+</p>
+
+---
+
+## Engineering Focus
+
+I'm currently focusing on becoming a stronger **Backend Software Engineer** rather than simply learning more frameworks.
+
+| Area | Focus |
+|---|---|
+| PHP | OOP, advanced language features, clean code |
+| Laravel | Architecture, services, actions, events, queues, testing |
+| Databases | SQL, relationships, indexing, query optimization |
+| Architecture | Modular design, separation of concerns, maintainability |
+| SOLID | Practical application in real projects |
+| Design Patterns | Creational, Structural, Behavioral patterns |
+| APIs | RESTful API design and backend integrations |
+| Git | Version control and professional workflows |
+
+---
+
+## Current Learning Path
+
+```text
+PHP
+  ↓
+Object-Oriented Programming
+  ↓
+SOLID Principles
+  ↓
+Design Patterns
+  ↓
+Laravel Internals & Architecture
+  ↓
+Database Engineering
+  ↓
+Clean / Modular Architecture
+  ↓
+Production-Ready Backend Systems
+```
+
+---
+
+## Featured Projects
+
+### Library Management System Engine
+
+A learning project designed to practice Laravel and software engineering concepts through a realistic library domain.
+
+**Focus:** Laravel · OOP · SOLID · Design Patterns · Database Design · Architecture
+
+### OmniStore Engine
+
+A backend-focused learning project for practicing order, discount, and payment workflows.
+
+**Focus:** Laravel · Services · DTOs · Actions · Strategy Pattern · Factory Pattern · Events
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mostafa7Ahmad&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="180" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa7Ahmad&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Top Languages">
+
 <br>
-📚 I am currently learning Laravel
-<br>
-🎯 Goals: To program amazing and professional applications and work at Google
-<br>
 
+<img src="https://streak-stats.demolab.com?user=Mostafa7Ahmad&hide_border=true&theme=transparent" alt="GitHub Streak">
 
-<!-- <img src="https://raw.githubusercontent.com/Mostafa7Ahmad/Mostafa7Ahmad/output/snake.svg" alt="Snake animation" /> -->
+</div>
 
+---
 
-<h2> Github Stats </h2>
+## Contribution Graph
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa7Ahmad&hide_border=true&area=true&custom_title=Mostafa%20Ahmad%20-%20Contribution%20Graph" alt="Contribution Graph">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/Mostafa7Ahmad">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building. Learning. Improving.
+
+**Focused on becoming a better engineer, one system at a time.**
+
 </div>
