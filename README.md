@@ -8,10 +8,10 @@ Building clean, scalable web applications with **PHP, Laravel, React, and MySQL*
 
 <p>
   <a href="https://github.com/Mostafa7Ahmad">
-    <img src="https://img.shields.io/github/followers/Mostafa7Ahmad?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/mustafa-ahmad-work?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
   </a>
   <a href="https://github.com/Mostafa7Ahmad?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Mostafa7Ahmad?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/mustafa-ahmad-work?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
   </a>
 </p>
 
@@ -160,44 +160,6 @@ A learning project designed to practice Laravel and software engineering concept
 A backend-focused learning project for practicing order, discount, and payment workflows.
 
 **Focus:** Laravel · Services · DTOs · Actions · Strategy Pattern · Factory Pattern · Events
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mostafa7Ahmad&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="180" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa7Ahmad&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Top Languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Mostafa7Ahmad&hide_border=true&theme=transparent" alt="GitHub Streak">
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa7Ahmad&hide_border=true&area=true&custom_title=Mostafa%20Ahmad%20-%20Contribution%20Graph" alt="Contribution Graph">
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/Mostafa7Ahmad">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
 
 ---
 
